@@ -1,0 +1,87 @@
+body{
+    
+  background-image:url('/works/DesafíoAventura/images/fondo-futbol-colores-azules_444390-13113.avif');
+  background-size:contain;
+
+
+}
+
+
+
+h1{
+    font-size: 60px;
+   color: white;
+}
+
+h2,p{
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+
+.escudoFrancia,h1,h2,p, .nacion, .RabiotModric, .rabiotFinal, .volverRabiot, .modricFinal, .volverModric, .lucho, .volverError{
+    text-align: center;
+}
+
+.nacionFr, .nacionUr{
+
+    background-color: black;
+    font-size: 30px;
+    margin-bottom: 150px;
+    
+}
+
+
+.nacionFr:hover{
+   
+    color: black;
+    background-image:url(../images/bandera-francia.png);
+    
+}
+.nacionUr:hover{
+    color: black;
+    background-image: url(../images/bandera-uruguay.png);
+}
+
+.RabiotModric,.volverModric{
+    margin-bottom: 150px;
+}
+ 
+.rabiot:hover{
+    background-image: url(../images/logo-juventus.png);
+}
+
+.modric:hover{
+    background-color: black;
+
+}
+
+.volver{
+    display: block;
+    font-size: 30px;
+    
+    color: black;
+   
+}
+
+.lucho, .volverError{
+    margin-bottom: 120px;
+}
+
+img{
+    height: 170px;
+}
+
+
+
+
+
+
+
+
+
+    
+    
